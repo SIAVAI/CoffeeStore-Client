@@ -4,3 +4,5 @@
 # Deployed on Firebase
 
 Live link - https://coffee-store-c227c.web.app/
+
+# User can add, post, delete and edit data. 
